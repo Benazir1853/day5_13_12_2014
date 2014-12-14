@@ -1,0 +1,9 @@
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\bin\Debug\CustomerInfoApp.exe.config
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\obj\Debug\CustomerInfoApp.csprojResolveAssemblyReference.cache
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\obj\Debug\CustomerInfoApp.Form1.resources
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\obj\Debug\CustomerInfoApp.Properties.Resources.resources
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\obj\Debug\CustomerInfoApp.csproj.GenerateResource.Cache
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\bin\Debug\CustomerInfoApp.exe
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\bin\Debug\CustomerInfoApp.pdb
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\obj\Debug\CustomerInfoApp.exe
+H:\13_12_2014_Day5\CustomerInfoApp\CustomerInfoApp\obj\Debug\CustomerInfoApp.pdb

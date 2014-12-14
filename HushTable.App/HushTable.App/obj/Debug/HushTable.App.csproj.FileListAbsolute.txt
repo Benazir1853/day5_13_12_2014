@@ -1,0 +1,2 @@
+H:\13_12_2014_Day5\HushTable.App\HushTable.App\bin\Debug\HushTable.App.exe.config
+H:\13_12_2014_Day5\HushTable.App\HushTable.App\obj\Debug\HushTable.App.csprojResolveAssemblyReference.cache
